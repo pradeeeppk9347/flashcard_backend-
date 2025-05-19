@@ -93,6 +93,9 @@ bash
 Copy
 Edit
 python app.py
+
+
+
 📁 Project Structure (optional)
 pgsql
 Copy
@@ -103,7 +106,10 @@ flashcard-backend/
 ├── requirements.txt
 ├── data/                # (if applicable - for JSON storage)
 └── README.md
+
+
 🛠️ Tech Stack
+
 Python 3.x
 
 Flask / FastAPI (specify which you're using)
