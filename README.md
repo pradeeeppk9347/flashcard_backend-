@@ -82,30 +82,27 @@ Clone the repository:
 ```bash
 git clone https://github.com/saikrishna770/flashcard-backend.git
 cd flashcard-backend
+
 Install the dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 ▶️ Run the App
-bash
-Copy
-Edit
+
 python app.py
 
 
 
+
 📁 Project Structure (optional)
-pgsql
-Copy
-Edit
+
 flashcard-backend/
 │
 ├── app.py
 ├── requirements.txt
 ├── data/                # (if applicable - for JSON storage)
 └── README.md
+
 
 
 🛠️ Tech Stack
